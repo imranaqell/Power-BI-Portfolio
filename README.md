@@ -12,3 +12,7 @@ This repository demonstrates my ability to create Power BI interactive dashboard
 **Marketing Analysis**
 
 ![Summary Of Marketing Campaign (Image)](https://user-images.githubusercontent.com/93969104/194915749-0cadf68d-2f60-4a81-aeba-445f3bed133d.png)
+
+**Russia Equipment Loss**
+
+<img width="656" alt="Russia Equipment Loss (Image)" src="https://user-images.githubusercontent.com/93969104/196201775-fbf61370-1141-4aec-9e81-022ed3c57832.png">
