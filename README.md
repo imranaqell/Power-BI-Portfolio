@@ -16,3 +16,7 @@ This repository demonstrates my ability to create Power BI interactive dashboard
 **Russia Equipment Loss**
 
 <img width="656" alt="Russia Equipment Loss (Image)" src="https://user-images.githubusercontent.com/93969104/196201775-fbf61370-1141-4aec-9e81-022ed3c57832.png">
+
+Super Market Analysis
+
+![Supermarket Sales (Image)](https://user-images.githubusercontent.com/93969104/197474023-4cf4ce72-439c-4dd9-8d66-61a5b5c73b1d.jpg)
