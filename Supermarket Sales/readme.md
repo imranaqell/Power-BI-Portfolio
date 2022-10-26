@@ -2,7 +2,7 @@
 
 **Introduction**
 
-In this project, I made an interactive dashboard from a data I got from Kaggle. The data is available on https://www.kaggle.com/datasets/aungpyaeap/supermarket-sales
+In this project, I made an interactive dashboard from a data I got from Kaggle. The data is available on [Supermarket Sales](https://www.kaggle.com/datasets/aungpyaeap/supermarket-sales)
 
 This analysis examines the number of sales by hour, the number of sales by branch, the number of sales by payment method, the most popular product category, and the median rating for each product. By conducting this analysis, a supermarket owner can make business decisions that will increase profits and expand the company's business.
 
